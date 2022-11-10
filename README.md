@@ -9,6 +9,8 @@ This is a solution to the frontend mentor challenge
 )
   - [Links]
 - Solution URL: [file:///C:/Users/Okereke's%20PC/Documents/Portfolios/QR%20Code%20Component/index.html](https://your-solution-url.com)
+
+- Live-site URL: https://lois39.github.io/QR-code-component/
 - [My process](#my-process)
   - Built with
 
